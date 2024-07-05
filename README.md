@@ -12,7 +12,7 @@ Here's a shorter version of the README file:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-repository.git
+    git clone https://github.com/DevAmarnadh/Object-Detection.git
     cd your-repository
     ```
 
