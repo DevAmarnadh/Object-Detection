@@ -1,5 +1,3 @@
-Here's a shorter version of the README file:
-
 # Object Detection and Tracking with YOLOv8 and OpenCV
 
 ## Prerequisites
